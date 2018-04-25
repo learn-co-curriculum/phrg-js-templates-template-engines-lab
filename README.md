@@ -24,3 +24,4 @@ Don't forget to run the tests and make sure everything works!
 ## Resources
 
 - [npm](https://npmjs.org)
+<p data-visibility='hidden'>PHRG JavaScript Lodash Templates Lab</p>
