@@ -21,6 +21,9 @@ Don't forget to run the tests and make sure everything works!
 5. Provide a form with an id of `post-form` to create a blog post with a title, body, and author. Submitting the form should build the page template with the post inside. Make the form submit using a `createPost()` function.
 6. Provide a form within the `comments-template` to post comments, including commenter name and comment text. These should use the template to insert individual comments into the comments section. You should be able to keep adding more comments. Make the form submit use a `postComment()` function.
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-templates-template-engines-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-js-templates-template-engines-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 ## Resources
 
 - [npm](https://npmjs.org)
